@@ -4,7 +4,7 @@
 <channel>
 <name>[COLOR gold][B]TORRENT[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/oykbaN4.png</thumbnail>
-<externallink>####</externallink>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-torrent</externallink>
 <fanart>https://i.imgur.com/5HxjZBx.jpg</fanart>
 <info>Informações...</info>
 </channel>
@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR gold][B]FILMES[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/9frnlCP.jpg</thumbnail>
-<externallink>####</externallink>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-filmes</externallink>
 <fanart>https://i.imgur.com/wRDUXXJ.jpg</fanart>
 <info>Informações...</info>
 </channel>
@@ -24,7 +24,7 @@
 <channel>
 <name>[COLOR gold][B]SÉRIES[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/L9pLFXN.jpg</thumbnail>
-<externallink>####</externallink>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-series</externallink>
 <fanart>https://i.imgur.com/MlCkrKR.jpg</fanart>
 <info>Informações...</info>
 </channel>
@@ -34,7 +34,7 @@
 <channel>
 <name>[COLOR gold][B]ANIMES[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/YQn92Rs.jpg</thumbnail>
-<externallink>####</externallink>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-animes</externallink>
 <fanart>https://i.imgur.com/C68vudP.jpg</fanart>
 <info>Informações...</info>
 </channel>
@@ -44,7 +44,7 @@
 <channel>
 <name>[COLOR gold][B]DESENHOS[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/tW5hVSa.jpg</thumbnail>
-<externallink>####</externallink>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-desenhos</externallink>
 <fanart>https://i.imgur.com/XeIOuBP.jpg</fanart>
 <info>Informações...</info>
 </channel>
@@ -54,7 +54,7 @@
 <channel>
 <name>[COLOR gold][B]YOUTUBE[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/bNFtSdc.jpg</thumbnail>
-<externallink>####</externallink>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-youtube</externallink>
 <fanart>https://i.imgur.com/0FmI1D8.jpg</fanart>
 <info>Informações...</info>
 </channel>

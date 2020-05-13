@@ -1,16 +1,16 @@
 <channels>
 </channels>
 <channel>
-<name>[B][COLOR gold]Filmes[/COLOR][/B]</name>
+<name>[B][COLOR gold]Filmes Torrent[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/HLDTy2x.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/torrent/menu.xml</externallink>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/torrent/filmes.xml</externallink>
 <fanart>https://i.imgur.com/Q3oqZTo.jpg</fanart>
 <info></info>
 </channel>
 
 
 <channel>
-<name>[B][COLOR gold]Desenhos[/COLOR][/B]</name>
+<name>[B][COLOR gold]Desenhos Torrent[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/MguKtFK.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/em-construcao.xml</externallink>
 <fanart>https://i.imgur.com/wvu9XKe.jpg</fanart>
@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR gold]Animes[/COLOR][/B]</name>
+<name>[B][COLOR gold]Animes Torrent[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/nBILL6b.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/em-construcao.xml</externallink>
 <fanart>https://i.imgur.com/opoSpJl.jpg</fanart>
@@ -26,7 +26,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR gold]Séries[/COLOR][/B]</name>
+<name>[B][COLOR gold] Séries Torrent[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/4AX9QC8.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/em-construcao.xml</externallink>
 <fanart>https://i.imgur.com/kuJCSbK.jpg</fanart>

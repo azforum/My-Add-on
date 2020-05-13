@@ -1,27 +1,9 @@
 <channels>
 </channels>
 <channel>
-<name>[B][COLOR gold]Filmes OnDemand[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/tnIb2m8.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/em-construcao.xml</externallink>
-<fanart>https://i.imgur.com/RCY5646.jpg</fanart>
-<info>Filmes dos mais variados servidores gratuitos encontrados na internet.[CR] Obs; Por se tratar de um serviço gratuito os links podem fica off a qualquer momento.</info>
-</channel>
-
-<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channel>
 <name>[B][COLOR gold]Rede Canais[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/lTNCQHF.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/filmes/rede-canais.xml</externallink>
 <fanart>https://i.imgur.com/Urx7Ndg.jpg</fanart>
 <info>Assista aos melhores filmes do site [COLOR gold][B]Rede Canais[/B][/COLOR][CR] Obs; Por se tratar de um serviço gratuito os links podem fica off a qualquer momento.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]Google Drive[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/xtsuiZp.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/filmes/gdrive.xml</externallink>
-<fanart>https://i.imgur.com/nmzlRsM.jpg</fanart>
-<info>Filme hospedado no serviço do [COLOR gold][B]Google drive[/B][/COLOR], para assistir a esse conteúdo é necessário ter o addon do google drive instalador no seu kodi.[CR] Obs; Por se tratar de um serviço gratuito os links podem fica off a qualquer momento.</info>
 </channel>

@@ -1,25 +1,9 @@
 <channels>
 </channels>
 <channel>
-<name>[B][COLOR gold]Animes OnDemand[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/lOquBAF.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/em-construcao.xml</externallink>
-<fanart>https://i.imgur.com/gFOErPU.jpg</fanart>
-<info>Animes dos mais variados servidores gratuitos encontrados na internet.[CR] Obs; Por se tratar de um serviço gratuito os links podem fica off a qualquer momento.</info>
-</channel>
-
-<channel>
 <name>[B][COLOR gold]Rede Canais[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/1E2pdKV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/em-construcao.xml</externallink>
 <fanart>https://i.imgur.com/GllRU8F.jpg</fanart>
 <info>Assista os melhores animes do site [COLOR gold][B]Rede Canais[/B][/COLOR][CR] Obs; Por se tratar de um serviço gratuito os links podem fica off a qualquer momento.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]Google Drive[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/4L6h5Xs.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/em-construcao.xml</externallink>
-<fanart>https://i.imgur.com/yyCcMRI.jpg</fanart>
-<info>Animes hospedados no serviço do [COLOR gold][B]Google drive[/B][/COLOR], para assistir a esse conteúdo é necessário ter o addon do google drive instalador no seu kodi.[CR] Obs; Por se tratar de um serviço gratuito os links podem fica off a qualquer momento.</info>
 </channel>

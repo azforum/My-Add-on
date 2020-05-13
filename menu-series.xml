@@ -1,25 +1,9 @@
 <channels>
 </channels>
 <channel>
-<name>[B][COLOR gold]Séries OnDemand[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/M2Z3ApY.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/em-construcao.xml</externallink>
-<fanart>https://i.imgur.com/NhMm1XO.jpg</fanart>
-<info>Séries dos mais variados servidores gratuitos encontrados na internet.[CR] Obs; Por se tratar de um serviço gratuito os links podem fica off a qualquer momento.</info>
-</channel>
-
-<channel>
 <name>[B][COLOR gold]Rede Canais[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/O9WMlGw.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/em-construcao.xml</externallink>
 <fanart>https://i.imgur.com/d4VJOIB.jpg</fanart>
 <info>Assista as melhores séries do site [COLOR gold][B]Rede Canais[/B][/COLOR][CR] Obs; Por se tratar de um serviço gratuito os links podem fica off a qualquer momento.</info>
-</channel>
-
-<channel>
-<name>[B][COLOR gold]Google Drive[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/F3rbKSb.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/em-construcao.xml</externallink>
-<fanart>https://i.imgur.com/joH4CFX.jpg</fanart>
-<info>Séries hospedadas no serviço do [COLOR gold][B]Google drive[/B][/COLOR], para assistir a esse conteúdo é necessário ter o addon do google drive instalador no seu kodi.[CR] Obs; Por se tratar de um serviço gratuito os links podem fica off a qualquer momento.</info>
 </channel>

@@ -3,9 +3,17 @@
 <channels>
 </channels>
 <channel>
-<name>[B][COLOR gold]Filmes - 2020 [/COLOR][/B]</name>
+<name>[B][COLOR gold]Filmes[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/ASWUS7w.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/torrent/filmes.xml</externallink>
 <fanart>https://www.10wallpaper.com/wallpaper/1280x720/1912/Star_Wars_The_Rise_of_Skywalker_2019_Films_HD_Poster_1280x720.jpg</fanart>
-<info></info>
+<info>Filmes Torrent</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]U C M[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/0DGvano.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.imgur.com/q4rnLQH.jpg</fanart>
+<info>Universo Cinematográfico Marvel[CR]O Marvel Cinematic Universe é uma franquia de mídia americana e um universo compartilhado centrado em uma série de filmes de super-heróis, produzida independentemente pela Marvel Studios e baseada em personagens que aparecem nas revistas em quadrinhos americanas publicadas pela Marvel Comics.</info>
 </channel>

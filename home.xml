@@ -1,1 +1,61 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+</channels>
+
+<channel>
+<name>[COLOR gold][B]TORRENT[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/oykbaN4.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-torrent.xml</externallink>
+<fanart>https://i.imgur.com/5HxjZBx.jpg</fanart>
+<info>O melhor conteúdo em Torrent, [CR]- Filmes[CR]- Séries[CR]- Anime[CR]- Desenhos. [CR]- para assistir o conteúdo torrente é necessário a instalar o addon quasar, você pode fazer o doanload no link abaixo. [CR][COLOR gold][B]https://quasar.surge.sh/[/B][/COLOR][CR] Obs; não somos responsáveis pelos links aqui encontrados, todos os links são organizados de diversos sites da internet.</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channel>
+<name>[COLOR gold][B]FILMES[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/9frnlCP.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-filmes.xml</externallink>
+<fanart>https://i.imgur.com/wRDUXXJ.jpg</fanart>
+<info>Assista aos melhores filmes online aqui, com a melhor qualidade disponível de graça no seu computador, tablete, Celular ou Box TV.[CR] Obs; não somos responsáveis pelos links aqui encontrados, todos os links são organizados de diversos sites da internet.</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channel>
+<name>[COLOR gold][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/L9pLFXN.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-series.xml</externallink>
+<fanart>https://i.imgur.com/MlCkrKR.jpg</fanart>
+<info>Assista as melhores séries online aqui, com a melhor qualidade disponível de graça no seu computador, tablete, Celular ou Box TV.[CR] Obs; não somos responsáveis pelos links aqui encontrados, todos os links são organizados de diversos sites da internet.</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channel>
+<name>[COLOR gold][B]ANIMES[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/YQn92Rs.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-animes.xml</externallink>
+<fanart>https://i.imgur.com/C68vudP.jpg</fanart>
+<info>Assista aos melhores animes online aqui, com a melhor qualidade disponível de graça no seu computador, tablete, Celular ou Box TV.[CR] Obs; não somos responsáveis pelos links aqui encontrados, todos os links são organizados de diversos sites da internet.</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channel>
+<name>[COLOR gold][B]DESENHOS[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/tW5hVSa.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/menu-desenhos.xml</externallink>
+<fanart>https://i.imgur.com/XeIOuBP.jpg</fanart>
+<info>Assista aos melhores desenhos online aqui, com a melhor qualidade disponível de graça no seu computador, tablete, Celular ou Box TV.[CR] Obs; não somos responsáveis pelos links aqui encontrados, todos os links são organizados de diversos sites da internet.</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channel>
+<name>[COLOR gold][B]YOUTUBE[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/bNFtSdc.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/youtube/menu.xml</externallink>
+<fanart>https://i.imgur.com/0FmI1D8.jpg</fanart>
+<info>Vídeos exclusivo do YouTube, aqui  você encontra o mais variado conteúdo como, Documentários[CR]- Shows[CR]- Cursos[CR]- Live[CR]- e muito mais[CR]- Caso tenha problema na reprodução dos vídeos, [CR]- Acesse o link abaixo e veja o tutorial de como configurar o addon do YouTube[CR][COLOR gold][B]https://bit.ly/youtube_api[/B][/COLOR]</info>
+</channel>

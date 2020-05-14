@@ -16,7 +16,7 @@ Aqui no Youtube você encontra vídeos exclusivos, transmissões especiais ao vi
 <channel>
 <name>[B][COLOR gold]Discovery Channel Brasil[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/KcwKtrB.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/azforum/My-Add-on/master/youtube/Discovery.xml</externallink>
+<externallink><utube>https://www.youtube.com/user/discoverybrasil/playlists</utube></externallink>
 <fanart>https://i.imgur.com/NZRCgvw.jpg</fanart>
 <info>O Discovery Brasil tem o melhor conteúdo para todos os curiosos e questionadores, informando e entretendo sobre temas como:
 Aventura, Enigmas, Investigações, Motores etc...</info>
